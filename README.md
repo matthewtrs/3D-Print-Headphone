@@ -1,1 +1,2 @@
-"# 3D-Print-Headphone"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin git@github.com:matthewtrs/3D-Print-Headphone.git git push -u origin main
+This project contains 3D printable headphone components designed for customization and easy assembly.  
+All parts are optimized for FDM printers and tested for accurate fit and durability.
